@@ -21,22 +21,22 @@ let updateTimer;
 
 const musicList = [
     {
-        img: 'images/dilawara.jpg',
+        img: './images/dilawara.jpg',
         name: 'Dilawara',
         artist: 'The Prophec',
-        music: 'music/Dilawara.mp3'
+        music: './music/Dilawara.mp3'
     },
     {
-        img: 'images/945.jpg',
+        img: './images/945.jpg',
         name: '9:45',
         artist: 'Prabh',
-        music: 'music/945.mp3'
+        music: './music/945.mp3'
     },
     {
-        img: 'images/players.jpg',
+        img: './images/players.jpg',
         name: 'Players',
         artist: 'Karan Aujla',
-        music: 'music/players.mp3'
+        music: './music/players.mp3'
     }
 ];
 
