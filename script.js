@@ -24,7 +24,7 @@ const musicList = [
         img: 'images/dilawara.jpg',
         name: 'Dilawara',
         artist: 'The Prophec',
-        music: 'music/dilawara.mp3'
+        music: 'music/Dilawara.mp3'
     },
     {
         img: 'images/945.jpg',
